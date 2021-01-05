@@ -1,4 +1,7 @@
 <!DOCTYPE html>
-<h1>hello this is my first webpage</h1>
-<a href="troyay.github.io/caculater"> Caculator</a>
-<a href="troyay.github.io/page2">Next page</a>
+<html>
+  <head>
+    <h1 class= introducer>Welcome to Mrs. Shealy's classroom </h1>
+    <h2> A breif walkthrough</h2>
+    <p class= abriefwalkthrough>A classroom that has many opertinitys to  collabrolate With other students and just have fun </p>
+  </head>
