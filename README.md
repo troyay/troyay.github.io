@@ -123,8 +123,6 @@
     <p>Text.</p>
     
     <button><a href = "#top"><img src = "https://upload.wikimedia.org/wikipedia/commons/9/9e/U%2B2191.svg"></a></button>
-
-    <h4><br>Credit to TDJ07 for most of this webpage.</h4><!-- DO NOT REMOVE-->
     </div>
     </body>
 </html>
