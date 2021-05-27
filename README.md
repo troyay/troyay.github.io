@@ -898,9 +898,10 @@ var applyGame = function () {
 draw = function() {
     applyGame();
 };
-    
 </script>
-        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfdTilBLm29F03AtkqVQXR7uoWCQ143qOczcWu0Udqyztm84g/viewform?embedded=true" width="640" height="1335" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe><head>
+        
+	    
+	    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfdTilBLm29F03AtkqVQXR7uoWCQ143qOczcWu0Udqyztm84g/viewform?embedded=true" width="640" height="1335" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe><head>
     <div class="header">
   <h1>MAIN TITLE</h1>
 </div>
