@@ -118,7 +118,7 @@
     
     <h2 id = "link3">Title 3</h2>
     <div>
-    <p>TEXT <a href = "link">link.</a> More Text
+    <p>TEXT <a href = "My-wesite">my platformer.</a> More Text
     </p>
     </div>
     
