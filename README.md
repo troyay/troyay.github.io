@@ -118,7 +118,7 @@ var collide = function(rect1, rect2, xs, ys) {
             rect1.ySpeed = 0;
             rect1.canJump = true;//makes sure it can jump
         }
-        if(ys < 0) {//if it is rising
+        if(ys < 0) {//if it is risings
             rect1.y = rect2.y + rect2.h;//keeps it below the block
             rect1.ySpeed = 0;
         }
