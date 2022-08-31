@@ -119,7 +119,7 @@
     </p>
     </div>
     
-    <h2 id = "link4">Title 4</h2>
+    <h2 id = "link4">title 4</h2>
     <p>Text.</p>
     
     <button><a href = "#top"><img src = "https://upload.wikimedia.org/wikipedia/commons/9/9e/U%2B2191.svg"></a></button>
