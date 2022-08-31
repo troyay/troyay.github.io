@@ -92,8 +92,7 @@
     <body>
     
         
-	<p>This is a youtuber that I watch. This is a highlight of it</p>
-	    <iframe width="560" height="315" src="https://www.youtube.com/embed/pcDwvifWvvw?start=75" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	
 </div>
     <ul>
         <li><a href="link"><img src = "https://www.kasandbox.org/programming-images/avatars/aqualine-ultimate.png"></a></li>
